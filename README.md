@@ -9,7 +9,7 @@ Explore my portfolio to see how I leverage data to drive insights and make infor
 
 
 ## Projects
-- [Investigate-data-set]((https://github.com/Mohamed-Tarek-data/Investigate-data-set)): investigate "tmdb-movies" data set In this note bock I explore data of "tmdb-movies", then clean it then ask questions and answer them, then visualize these answers.
+- [Investigate-data-set][https://github.com/Mohamed-Tarek-data/Investigate-data-set]: investigate "tmdb-movies" data set In this note bock I explore data of "tmdb-movies", then clean it then ask questions and answer them, then visualize these answers.
 - [A-B-testing][https://github.com/Mohamed-Tarek-data/A-B-testing]: My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision..
 - ...
 
