@@ -11,7 +11,7 @@ Explore my portfolio to see how I leverage data to drive insights and make infor
 ## Projects
 - [Investigate-data-set][https://github.com/Mohamed-Tarek-data/Investigate-data-set]: investigate "tmdb-movies" data set In this note bock I explore data of "tmdb-movies", then clean it then ask questions and answer them, then visualize these answers.
 - [A-B-testing][https://github.com/Mohamed-Tarek-data/A-B-testing]: My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision..
-- ...
+- [SQL_for_data_analysis][[https://github.com/Mohamed-Tarek-data/SQL_for_data_analysis]: My goal is to use digital music store data base to help the company to see how they might optimize their business practice
 
 ## Skills
 - Python: Proficient in pandas, NumPy, and Matplotlib.
